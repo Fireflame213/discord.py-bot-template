@@ -48,5 +48,5 @@
 8. Run the `main.py` file. Congratulations, your Discord bot now online!
 
 # FAQ and Troubleshooting
-Question: How do I invite my bot to my server?
+Question: How do I invite my bot to my server? \
 Answer: When you run your bot, an invite link will be printed in the console. That is your bots invite link.
